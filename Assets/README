@@ -1,0 +1,5 @@
+Not much has changed from my design document. Instead of shooting a gun the player shoots out his sword. I set boundaries in the game to make the player feel constricted.
+For sounds I made sure the gun that shoot swords has a machine gun noise effect. I also implemented sounds for zombies, such that when they get hit and are destroyed they make a zombie noise.
+I also made sounds for the player interacting with zombies. Whenever a zombie gets too close the player will let out a grunt and when the player is dead, he will let out a deadly cry.
+The last noise I implemented was the background noise and I aimed for a spooky atmosphere.
+The sprites I used were from the Unity Asset store and they had great selections of monsters but not so much for characters that fit my original design.
